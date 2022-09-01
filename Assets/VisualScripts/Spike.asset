@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Spike
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-177.5,"y":-67.5},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-355.0,"y":-272.0},"guid":"514d1e98-f1eb-4b36-a5c2-ee9f9ad54aba","$version":"A","$type":"Unity.VisualScripting.Start"},{"coroutine":false,"defaultValues":{},"position":{"x":-351.0,"y":59.0},"guid":"1f695ba2-485b-41f9-8a9d-e0906070fa17","$version":"A","$type":"Unity.VisualScripting.Update"},{"type":"UnityEngine.BoxCollider2D","value":null,"defaultValues":{},"position":{"x":-53.0,"y":-81.0},"guid":"fdb65c01-fb2c-4b73-ab0e-93f1827e23f1","$version":"A","$type":"Unity.VisualScripting.Literal"},{"member":{"name":"isTrigger","parameterTypes":null,"targetType":"UnityEngine.Collider2D","targetTypeName":"UnityEngine.Collider2D","$version":"A"},"defaultValues":{"target":null},"position":{"x":-93.0,"y":73.0},"guid":"d0f49356-5e02-4293-bca4-d55071e83b55","$version":"A","$type":"Unity.VisualScripting.GetMember"}],"$version":"A"}}'
+    _objectReferences: []
